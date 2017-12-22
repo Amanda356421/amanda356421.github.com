@@ -1,0 +1,936 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fn",
+				"fnFailed"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"oBtn",
+				"oBtn2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ar",
+				"arc"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"strok",
+				"stroke"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"stro",
+				"stroke"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"sto",
+				"strokeStyle"
+			],
+			[
+				"outli",
+				"outline"
+			],
+			[
+				"color",
+				"color='#DFDFDF"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"matop",
+				"margin-top"
+			],
+			[
+				"co",
+				"color_ff5c01"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"wrap",
+				"wrap450"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"background",
+				"background_h"
+			],
+			[
+				"wrp",
+				"wrap540"
+			],
+			[
+				"ff",
+				"ff5c01"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"si",
+				"size24"
+			],
+			[
+				"marigh",
+				"margin-right"
+			],
+			[
+				"wrap2",
+				"wrap200"
+			],
+			[
+				"flo",
+				"float_left"
+			],
+			[
+				"wr",
+				"wrap380"
+			],
+			[
+				"onmou",
+				"onmousemove	Attr"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"mato",
+				"margin_top20"
+			],
+			[
+				"teal",
+				"text-align"
+			],
+			[
+				"all_",
+				"all_a_len"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"marginle",
+				"margin_left20"
+			],
+			[
+				"floa",
+				"float_right"
+			],
+			[
+				"sh",
+				"showDiv2"
+			],
+			[
+				"wra",
+				"wrap260"
+			],
+			[
+				"mabo",
+				"margin-bottom"
+			],
+			[
+				"mal",
+				"margin-left"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"pa",
+				"padding20"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"mto",
+				"margin_top10"
+			],
+			[
+				"col",
+				"color_010101"
+			],
+			[
+				"ma",
+				"margin_top10"
+			],
+			[
+				"text",
+				"text_indent"
+			],
+			[
+				"color0",
+				"color_ff5c01"
+			],
+			[
+				"w",
+				"wrap260"
+			],
+			[
+				"mari",
+				"margin_right20"
+			],
+			[
+				"colo",
+				"color_ff5c01"
+			],
+			[
+				"padd",
+				"padding40"
+			],
+			[
+				"mbo",
+				"margin_bot20"
+			],
+			[
+				"min",
+				"min_height565"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bobo",
+				"bor_bot_1_s_d5"
+			],
+			[
+				"tex",
+				"text_align"
+			],
+			[
+				"te",
+				"text_indent"
+			],
+			[
+				"po",
+				"position_r"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"g",
+				"getElementById(\"beijing"
+			],
+			[
+				"height",
+				"height_"
+			],
+			[
+				"next",
+				"nextSibling"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"nav",
+				"nav_"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"foo",
+				"footer-nav"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"lihei",
+				"line-height"
+			],
+			[
+				"line_height",
+				"line_height50"
+			],
+			[
+				"fl",
+				"float_left"
+			],
+			[
+				"padding",
+				"padding20"
+			],
+			[
+				"fon",
+				"font_song"
+			],
+			[
+				"rep",
+				"repeat-x  (value)"
+			],
+			[
+				"nora",
+				"nowrap  (value)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"size",
+				"size_18"
+			],
+			[
+				"float",
+				"float_left"
+			],
+			[
+				"ra",
+				"radio"
+			],
+			[
+				"scrol",
+				"scroll"
+			],
+			[
+				"c",
+				"center  (value)"
+			],
+			[
+				"wo",
+				"window"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"f",
+				"f_l"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"fr",
+				"f_r"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"import",
+				"!important  (value)"
+			],
+			[
+				"pao",
+				"padding-top"
+			],
+			[
+				"inn",
+				"inline-table"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"transform-or",
+				"-webkit-transform-origin:   (property)"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"background-",
+				"background-color:   (property)"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"con",
+				"contaner"
+			],
+			[
+				"impor",
+				"!important  (value)"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"boco",
+				"border-color"
+			],
+			[
+				"bei",
+				"beijing"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"display",
+				"display:block"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"A",
+				"A套餐+合成油"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"show",
+				"show_you"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fla",
+				"false"
+			],
+			[
+				"fa",
+				"false"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 160.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/坤/Desktop/会员/adress.html",
+		"/C/Users/坤/Desktop/会员/basemessage.html",
+		"/C/Users/坤/Desktop/会员/changephone.html",
+		"/C/Users/坤/Desktop/会员/cm_gl.html",
+		"/C/Users/坤/Desktop/会员/cm_look.html",
+		"/C/Users/坤/Desktop/会员/cm_order.html",
+		"/C/Users/坤/Desktop/会员/cm_shop.html",
+		"/C/Users/坤/Desktop/会员/collect.html",
+		"/C/Users/坤/Desktop/会员/fahuo.html",
+		"/C/Users/坤/Desktop/会员/inform.html",
+		"/C/Users/坤/Desktop/会员/level.html",
+		"/C/Users/坤/Desktop/会员/level_over.html",
+		"/C/Users/坤/Desktop/会员/mycar.html",
+		"/C/Users/坤/Desktop/会员/level2.html",
+		"/C/Users/坤/Desktop/会员/number.html",
+		"/C/Users/坤/Desktop/会员/mycar_over.html",
+		"/C/Users/坤/Desktop/会员/number_phone.html",
+		"/C/Users/坤/Desktop/会员/number_over.html",
+		"/C/Users/坤/Desktop/会员/order.html",
+		"/C/Users/坤/Desktop/会员/number_xiugai.html",
+		"/C/Users/坤/Desktop/会员/order_details.html",
+		"/C/Users/坤/Desktop/会员/order_pingjia.html",
+		"/C/Users/坤/Desktop/会员/personal_information.html",
+		"/C/Users/坤/Desktop/会员/phone_over.html",
+		"/C/Users/坤/Desktop/会员/wuliu.html",
+		"/C/Users/坤/Desktop/威海戥同/plantform.html",
+		"/C/Users/坤/Desktop/威海戥同/plantform1.html",
+		"/C/Users/坤/Desktop/威海戥同/register.html",
+		"/C/Users/坤/Desktop/威海戥同/search.html",
+		"/C/Users/坤/Desktop/威海戥同/seven.html",
+		"/C/Users/坤/Desktop/威海戥同/seven_detail.html",
+		"/C/Users/坤/Desktop/威海戥同/seven_list.html",
+		"/C/Users/坤/Desktop/威海戥同/train_detail.html",
+		"/C/Users/坤/Desktop/威海戥同/training.html",
+		"/C/Users/坤/Desktop/威海戥同/updown.html",
+		"/C/Users/坤/Desktop/威海戥同/updown1.html",
+		"/C/Users/坤/Desktop/威海戥同/updown2.html",
+		"/C/Users/坤/Desktop/威海戥同/updown3.html",
+		"/C/Users/坤/Desktop/威海戥同/updown4.html",
+		"/C/Users/坤/Desktop/威海戥同/device_detail.html",
+		"/C/Users/坤/Desktop/威海戥同/device.html",
+		"/C/Users/坤/Desktop/威海戥同/doc_detail.html",
+		"/C/Users/坤/Desktop/威海戥同/doc_list.html",
+		"/C/Users/坤/Desktop/威海戥同/document.html",
+		"/C/Users/坤/Desktop/威海戥同/forget.html",
+		"/C/Users/坤/Desktop/威海戥同/forum.html",
+		"/C/Users/坤/Desktop/威海戥同/forum_list.html",
+		"/C/Users/坤/Desktop/威海戥同/index.html",
+		"/C/Users/坤/Desktop/威海戥同/info_detail.html",
+		"/C/Users/坤/Desktop/威海戥同/infomation.html",
+		"/C/Users/坤/Desktop/威海戥同/login.html",
+		"/C/Users/坤/Desktop/威海戥同/movie.webm",
+		"/C/Users/坤/Desktop/威海戥同/mall.html",
+		"/C/Users/坤/Desktop/威海戥同/pay1.html",
+		"/C/wamp/www/index.html",
+		"/C/wamp/www/ajax.js",
+		"/C/Users/坤/Desktop/test/数码时钟.html",
+		"/D/SublimeText3中文破解版/SublimeText3中文破解版/Data/Packages/User/Package Control.sublime-settings",
+		"/D/SublimeText3中文破解版/SublimeText3中文破解版/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/SublimeText3中文破解版/SublimeText3中文破解版/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/坤/Desktop/test/移动端1.html",
+		"/C/Users/坤/Desktop/525482488199妙味移动端开发视频/移动端实战系列视频教程/移动端实战系列视频教程课件/js/index.js",
+		"/C/Users/坤/Desktop/test/获取非行间样式2.html",
+		"/C/Users/坤/Desktop/test/定时器.html",
+		"/C/Users/坤/Desktop/test/css函数.html",
+		"/C/Users/坤/Desktop/test/数组.html",
+		"/C/Users/坤/Desktop/test/数组1.html",
+		"/C/Users/坤/Desktop/test/数组2.html",
+		"/C/Users/坤/Desktop/test/clock.html",
+		"/C/Users/坤/Desktop/test/canvas.html",
+		"/C/Users/坤/Desktop/test/sun.html",
+		"/C/Users/坤/Desktop/test/表单.html",
+		"/D/修改文件/my.css",
+		"/D/修改文件/czxy/QA.cshtml",
+		"/D/修改文件/czxy/style.css",
+		"/D/修改文件/czxy/List.cshtml",
+		"/D/修改文件/czxy/Index.cshtml",
+		"/D/薛恬工作！！/招标网/my.css",
+		"/D/薛恬工作！！/招标网/Index.cshtml",
+		"//HY-PC/Web/Content/css/my.css",
+		"//HY-PC/Web/Scripts/jquery-scrollbar.js",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/WordsList.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/Onlineapply.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/OnlineList.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/list.css",
+		"/D/薛恬工作！！/飞飞云传/飞飞云传/飞飞云传/js/jquery-1.7.min.js",
+		"/D/薛恬工作！！/飞飞云传/飞飞云传/飞飞云传/js/jquery-1.7.2.min.js",
+		"/D/薛恬工作！！/15-05-01嘉乐斯乐/advslb.css",
+		"/D/薛恬工作！！/15-06-01 翰祺/Index.cshtml",
+		"/D/薛恬工作！！/15-06-01 翰祺/jianjie.cshtml",
+		"/D/薛恬工作！！/15-05-01嘉乐斯乐/advsheadlb.js",
+		"/D/Index.cshtml",
+		"/D/薛恬工作！！/Nav.cshtml",
+		"/D/薛恬工作！！/my.css",
+		"/D/薛恬工作！！/layout.css",
+		"/D/薛恬工作！！/join1491.css",
+		"/D/薛恬工作！！/me.js",
+		"/D/薛恬工作！！/index.css",
+		"/D/薛恬工作！！/Index.cshtml",
+		"/D/薛恬工作！！/top.cshtml",
+		"/D/join1491.css",
+		"/D/修改文件/云基地/shenqing.cshtml",
+		"/C/Users/ghw/Documents/HzhbList.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/List.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/Footer.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/Index.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/Pubfile.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/Banner.cshtml",
+		"/D/薛恬工作！！/益生联合所缺页面及存在的问题/Banner__flash.cshtml",
+		"/D/修改文件/云基地/my.css",
+		"/E/layout.css",
+		"/D/修改文件/云基地/Nav.cshtml",
+		"/D/修改文件/hanqi/SingleArticle.cshtml",
+		"/D/修改文件/hanqi/ImageList.cshtml",
+		"/D/修改文件/hanqi/ImageArticle.cshtml",
+		"/D/修改文件/hanqi/style.css",
+		"/D/修改文件/hanqi/gyjs.cshtml",
+		"/D/修改文件/hanqi/Index.cshtml",
+		"/C/Users/ghw/Documents/Head.cshtml",
+		"/C/Users/ghw/Documents/Nav.cshtml",
+		"/C/Users/ghw/Documents/gyjs.cshtml",
+		"/C/Users/ghw/Documents/Top.cshtml",
+		"/D/修改文件/hanqi/Banner.cshtml",
+		"/D/薛恬工作！！/style.css",
+		"/D/薛恬工作！！/15-06-01 翰祺/css/style.css",
+		"/D/修改文件/hanqi/News.cshtml",
+		"/D/修改文件/hanqi/content.cshtml",
+		"/D/修改文件/hanqi/Foot.cshtml"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a href=\"\"><img src=\"images/img27.jpg\" alt=\"\" width=\"246\" height=\"139\"/></a>\n                <h5><a href=\"\">2016年第一期企业知识产权管理培训2016年第一期企业知识产权管理培训</a></h5>",
+			"/Content/List?CID=C006002",
+			"营业税",
+			"jquery-scrollbar-container",
+			"DFDFDF",
+			"button",
+			"Button",
+			"button",
+			"map.png",
+			"20150512164847_1458",
+			"prev",
+			"<div class=\"prev\"><a href=\"javascript:void(0)\">&lt;</a></div>",
+			"e_pic_wrap",
+			"class=\"h\"",
+			"no_mag",
+			"fuli_ul",
+			"查看更多",
+			"no_mag",
+			"swfContent",
+			"<!--访问机构-->",
+			"复审通过，正在还款的借款 ",
+			"图片预览：",
+			"value=this.value.replace(/D+/g,\"\")",
+			"$(document).ready",
+			"vertical-align:top;",
+			";}\n",
+			"400px",
+			" onclick=\"show_bjzp(this)\"",
+			" class=\"caozuo\"",
+			" class=\"bt\"",
+			" class=\"nandu\"",
+			"margin_top20",
+			"50px",
+			"text",
+			"btn2",
+			"上传",
+			"完善截止时间：2015",
+			"30",
+			"obj",
+			"float_right color_ff5c01 size18",
+			"profession",
+			";\">",
+			"cswdRoll",
+			" font_weight color_ff5c01 bor_bot_1_s_d5 line_height50",
+			"<div class=\"bianji\">",
+			"gengduo",
+			";}",
+			"margin_left20",
+			"\">",
+			"float_right",
+			"cz",
+			"id=\"jbxx\"",
+			"{}",
+			"font_weight",
+			"0",
+			"\n               ",
+			"\n                       ",
+			">\n",
+			" class=\"wrap224\"",
+			"float_right",
+			"color_ff5c01",
+			"li",
+			" class=\"nav8\"",
+			");\n",
+			"“",
+			"”",
+			"90px",
+			" class=\"nav-bottom\"",
+			"jihua",
+			"right",
+			"5px",
+			"ff5c01",
+			"ChangeSize",
+			"SubmenuClick",
+			"td_First_Menu55",
+			";}",
+			"header",
+			" </",
+			"font-family: \"宋体\"",
+			"bor_bot_1_dashed",
+			"wrap338",
+			"http://www.superslide2.com",
+			"#yjjb .k1 .k11",
+			"alt",
+			"alt=\"CBC GLOBAL GATEWAY\"",
+			"font-size: 14px;",
+			"litb_font2",
+			"PROJECT",
+			"最新项目",
+			"最新项目 ",
+			"btn",
+			"firstname",
+			"435",
+			"btn4",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+			"images",
+			"}\n",
+			"left",
+			"></",
+			"top",
+			"融资租赁债权转让项目第34期F",
+			">融资租赁债权转让项目第34期F",
+			"融资租赁债权转让项目第34期F",
+			"205",
+			"0",
+			";}",
+			"#;}",
+			");\n",
+			"></",
+			"popDiv",
+			"                                         <td><input type=\"tel\"  class=\"wrap164\"/></td>\n",
+			">\n",
+			"main1",
+			";}",
+			"http://www.superslide2.com",
+			"w3cFocus",
+			"padding",
+			"li",
+			">\n",
+			"=\"#\">",
+			"./产品内容页_files",
+			"top-header hide-element",
+			"<link href=\"css/style.css\" rel=\"stylesheet\">\n<link rel=\"Stylesheet\" type=\"text/css\" href=\"css/GWPV2.css\">\n<link rel=\"Stylesheet\" type=\"text/css\" href=\"css/ISOMOSSOverrides.css\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"cssssss/ISOImports.css\">\n",
+			"0",
+			"<a href=\"javascript:;\" class=\"comment\">评论<i></i></a>",
+			" <a href=\"javascript:;\" class=\"comment\">评论<i></i></a>",
+			".b_foreword .foreword_list",
+			".b_expand_info .top .info .main_ct .list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
